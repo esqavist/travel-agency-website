@@ -1,34 +1,36 @@
-# 🌏 USMANOV.travel — Сайт туристического агентства
+# 🌏 USMANOV.travel — Travel Agency Website
 
-> Учебный проект: сайт туристического агентства, специализирующегося на путешествиях по Вьетнаму.
+> Educational project: a travel agency website specializing in trips to Vietnam.
 
-## 📖 О проекте
+## 📖 About the Project
 
-Этот сайт был разработан в рамках студенческого учебного задания. Цель проекта — создать полноценный многостраничный веб-сайт для вымышленного турагентства **"Vietnam Student Travel"**, которое организует доступные и увлекательные поездки по Вьетнаму.
+This website was developed as part of a student educational assignment. The goal of the project is to create a full-fledged multi-page website for a fictional travel agency **"Vietnam Student Travel"**, which organizes affordable and exciting trips to Vietnam.
 
-На сайте представлена полная структура: от главной страницы с призывом к действию до страниц с турами, контактами и информацией об агентстве. Все страницы связаны между собой, настроена навигация, используется единый стиль оформления.
+The website features a complete structure: from the homepage with a call-to-action to pages with tours, contacts, and information about the agency. All pages are linked together, navigation is properly configured, and a consistent design style is used throughout.
 
-## 🚀 Особенности (Features)
+## 🚀 Features
 
-- ✅ **5 готовых страниц**:
-  - Главная (`index.html`)
-  - Карта (`map.html`)
-  - Туры и направления (`prices.html`)
-  - Контакты (`contacts.html`)
-  - Страница правил бронирования (`rules.html`)
-- ✅ **Единая стилизация** — все CSS файлы подключены и структурированы.
-- ✅ **Навигационное меню** — доступно с любой страницы.
-- ✅ **Чистый код** — HTML и CSS валидны.
+- ✅ **5 ready-made pages**:
+  - Home (`index.html`)
+  - Map (`map.html`)
+  - Tours & Destinations (`prices.html`)
+  - Contacts (`contacts.html`)
+  - Booking Rules (`rules.html`)
+- ✅ **Unified styling** — all CSS files are connected and well-structured.
+- ✅ **Navigation menu** — accessible from any page.
+- ✅ **Clean code** — valid HTML and CSS.
 
-## 🛠️ Технологии (Tech Stack)
+## 🛠️ Tech Stack
 
-- **HTML5** — семантическая разметка.
-- **CSS3** — каскадные таблицы стилей (Flexbox/Grid для верстки).
+- **HTML5** — semantic markup.
+- **CSS3** — cascading style sheets (Flexbox/Grid used for layout).
 
-Цели проекта:
-- Отработка навыков верстки многостраничного сайта.
-- Закрепление знаний по CSS (стилизация, позиционирование).
-- Изучение структуры реального коммерческого сайта.
+## 🎯 Project Goals
 
-🙏 Благодарности
-Сайт выполнен в образовательных целях. Все изображения и описания вымышлены и используются как учебный материал.
+- Practicing multi-page website layout skills.
+- Reinforcing CSS knowledge (styling, positioning).
+- Understanding the structure of a real commercial website.
+
+## 🙏 Acknowledgments
+
+The website was created for educational purposes. All images and descriptions are fictional and used solely as learning material.
